@@ -46,3 +46,5 @@
 | nvmx | use 16 |
 | nvmy | use 18 |
 | nvmz | use 19 |
+
+CAMBIO QUE QUIERO VER SOLO EN MAIN
